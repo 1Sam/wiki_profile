@@ -11,7 +11,6 @@ if(!defined("__XE__")) exit();
   * @brief 1SamOnline 위키 인명정보 자동입력 애드온
 **/
 
-
 // return unless before_display_content
 //if($called_position != "before_display_content" || Context::get('act') == 'dispBoardContentView' || Context::getResponseMethod() != 'HTML' || isCrawler()) return;
 
